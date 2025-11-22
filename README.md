@@ -1,6 +1,6 @@
 # Web Scraper Project
 
-A professional Python web scraping tool built for technical interviews.
+A professional Python web scraping tool.
 
 ## 🎯 Features
 
